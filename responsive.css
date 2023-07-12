@@ -1,0 +1,1058 @@
+@media screen and (max-width :1200px){
+
+#map iframe{
+	display: none !important;
+}
+
+
+
+
+#container-four #content video{
+
+	width: 400px !important;
+	height: 200px !important;
+}
+
+
+#container-four #content #space{
+
+	width: 400px;
+	margin-left: 40px;
+}
+
+
+
+
+
+#container nav content {
+	width: 100%;
+}
+
+#container #bg-opacity{
+	width: 100%;
+	height: 130px !important;
+	background-color: black;
+}
+
+#para-one{
+	height: 370px !important;
+	
+}
+
+
+/*=================================================*/
+
+/*1*/
+#container-three content div img[src="IMG/Motion-img.jpg"]{
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+
+	
+
+}
+
+
+
+/*2*/
+
+#container-three content div img[src="IMG/Web-img.jpg"]{
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	
+
+}
+
+
+/*3*/
+
+#container-three content img[src="IMG/Graphic-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	
+
+}
+
+
+/*4*/
+
+#container-three content div img[src="IMG/Ecomerce-img.jpg"]{
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+
+
+	
+}
+
+
+
+/*======================================================*/
+
+#container-three Content #bg-img-one #text-one{
+
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 15px;
+
+
+
+}
+
+
+
+#container-three Content #bg-img-two #text-two{
+
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	background-color: #F8F8F8;
+	text-align: center;
+	float: left;
+	font-size: 15px;
+
+
+
+}
+
+
+
+#container-three Content #bg-img-three #text-three{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 15px;
+	
+
+
+}
+
+
+#container-three Content #bg-img-four #text-four{
+
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 15px;
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*====================================================*/
+/*====================================================*/
+/*====================================================*/
+
+
+@media screen and (max-width :1000px){
+#container nav a{
+	display: none;
+}
+#para-one{
+	height: 415px !important;
+	margin-top: 10px;
+}
+#container #bg-opacity{
+	width: 100%;
+	height: 90px !important;
+	background-color: black;
+}
+
+
+}
+
+
+
+/*====================================================*/
+/*====================================================*/
+/*====================================================*/
+
+
+@media screen and (max-width :1080px){
+
+
+
+/*=================================================*/
+
+/*1*/
+#container-three content div img[src="IMG/Motion-img.jpg"]{
+	height: 320px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+
+	
+
+}
+
+
+
+/*2*/
+
+#container-three content div img[src="IMG/Web-img.jpg"]{
+	height: 320px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	
+
+}
+
+
+/*3*/
+
+#container-three content img[src="IMG/Graphic-img.jpg"]{
+	height: 280px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	
+
+}
+
+
+/*4*/
+
+#container-three content div img[src="IMG/Ecomerce-img.jpg"]{
+	height: 320px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+
+
+	
+}
+
+
+
+
+
+
+
+/*======================================================*/
+
+#container-three Content #bg-img-one #text-one{
+
+	height: 320px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 13px;
+
+
+}
+
+
+
+#container-three Content #bg-img-two #text-two{
+
+	height: 320px !important;
+	width: 50% !important;
+	position: relative;
+	background-color: #F8F8F8;
+	text-align: center;
+	float: left;
+	font-size: 13px;
+
+
+
+}
+
+
+
+#container-three Content #bg-img-three #text-three{
+
+	height: 280px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 13px;
+
+
+
+}
+
+
+#container-three Content #bg-img-four #text-four{
+
+	height: 320px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 13px;
+
+	
+}
+
+
+
+
+/*===============================================*/
+/*==================================================*/
+/*=================================================*/
+
+
+@media screen and (max-width :980px){
+
+
+
+
+
+
+#container-four #content video{
+
+	width: 350px !important;
+	height: 150px !important;
+}
+
+
+
+/*=================================================*/
+
+/*1*/
+#container-three content div img[src="IMG/Motion-img.jpg"]{
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+
+	
+
+}
+
+
+
+/*2*/
+
+#container-three content div img[src="IMG/Web-img.jpg"]{
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	
+
+}
+
+
+/*3*/
+
+#container-three content img[src="IMG/Graphic-img.jpg"]{
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	
+
+}
+
+
+/*4*/
+
+#container-three content div img[src="IMG/Ecomerce-img.jpg"]{
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+
+
+	
+}
+
+
+
+
+
+
+
+/*======================================================*/
+
+#container-three Content #bg-img-one #text-one{
+
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	
+
+
+}
+
+
+
+#container-three Content #bg-img-two #text-two{
+
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	background-color: #F8F8F8;
+	text-align: center;
+	float: left;
+	
+
+
+}
+
+
+
+#container-three Content #bg-img-three #text-three{
+
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	 
+
+
+}
+
+
+#container-three Content #bg-img-four #text-four{
+
+	height: 300px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	background-color: #F8F8F8;
+	text-align: center;
+
+
+	 
+	
+}
+
+
+}
+
+
+/*======================================================*/
+/*============================================================*/
+/*======================================================*/
+
+
+
+
+
+
+@media screen and (max-width :880px){
+
+
+
+
+/*=================================================*/
+
+/*1*/
+#container-three content div img[src="IMG/Motion-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+
+	
+
+}
+
+
+
+/*2*/
+
+#container-three content div img[src="IMG/Web-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	
+
+}
+
+
+/*3*/
+
+#container-three content img[src="IMG/Graphic-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	
+
+}
+
+
+/*4*/
+
+#container-three content div img[src="IMG/Ecomerce-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+
+
+	
+}
+
+
+
+
+
+
+
+/*======================================================*/
+
+#container-three Content #bg-img-one #text-one{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 10px;
+
+
+}
+
+
+
+#container-three Content #bg-img-two #text-two{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	background-color: #F8F8F8;
+	text-align: center;
+	float: left;
+	font-size: 10px;
+
+
+
+}
+
+
+
+#container-three Content #bg-img-three #text-three{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 10px;
+
+
+
+}
+
+
+#container-three Content #bg-img-four #text-four{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 10px;
+
+	
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width :880px){
+
+
+
+
+
+
+/*=================================================*/
+
+/*1*/
+#container-three content div img[src="IMG/Motion-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+
+	
+
+}
+
+
+
+/*2*/
+
+#container-three content div img[src="IMG/Web-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	
+
+}
+
+
+/*3*/
+
+#container-three content img[src="IMG/Graphic-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	
+
+}
+
+
+/*4*/
+
+#container-three content div img[src="IMG/Ecomerce-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+
+
+	
+}
+
+
+
+
+
+
+
+/*======================================================*/
+
+#container-three Content #bg-img-one #text-one{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 10px;
+
+
+}
+
+
+
+#container-three Content #bg-img-two #text-two{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	background-color: #F8F8F8;
+	text-align: center;
+	float: left;
+	font-size: 10px;
+
+
+
+}
+
+
+
+#container-three Content #bg-img-three #text-three{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 10px;
+
+
+
+}
+
+
+#container-three Content #bg-img-four #text-four{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 10px;
+
+	
+}
+
+
+}
+
+
+
+/*=============================================*/
+/*==============================================*/
+/*===============================================*/
+
+
+
+@media screen and (max-width :780px){
+
+
+#container-four #content video{
+
+	width: 300px !important;
+	height: 100px !important;
+}
+
+
+/*=================================================*/
+
+/*1*/
+#container-three content div img[src="IMG/Motion-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+
+	
+
+}
+
+
+
+/*2*/
+
+#container-three content div img[src="IMG/Web-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	
+
+}
+
+
+/*3*/
+
+#container-three content img[src="IMG/Graphic-img.jpg"]{
+	height: 200px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	
+
+}
+
+
+/*4*/
+
+#container-three content div img[src="IMG/Ecomerce-img.jpg"]{
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+
+
+	
+}
+
+
+
+
+
+
+
+/*======================================================*/
+
+#container-three Content #bg-img-one #text-one{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 10px;
+
+
+	
+
+
+
+}
+
+
+
+#container-three Content #bg-img-two #text-two{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	background-color: #F8F8F8;
+	text-align: center;
+	float: left;
+	font-size: 10px;
+
+
+
+	
+
+
+}
+
+
+
+#container-three Content #bg-img-three #text-three{
+
+	height: 200px !important;
+	width: 50% !important;
+	position: relative;
+	float: right;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 10px;
+
+
+
+	 
+
+
+
+}
+
+
+#container-three Content #bg-img-four #text-four{
+
+	height: 250px !important;
+	width: 50% !important;
+	position: relative;
+	float: left;
+	background-color: #F8F8F8;
+	text-align: center;
+	font-size: 10px;
+
+
+	 
+	
+}
+
+
+img[src="IMG/icon1.png"]{
+	width: 50px !important;
+	height: 50px !important;
+}
+img[src="IMG/icon2.png"]{
+	width: 50px !important;
+	height: 50px !important;
+}
+
+
+}
+
+
+
+
+
+
+
+
+/*=============================================*/
+/*==============================================*/
+/*===============================================*/
+
+
+
+@media screen and (max-width :680px){
+
+
+
+
+/*=================================================*/
+
+/*1*/
+#container-three content div img[src="IMG/Motion-img.jpg"]{
+	height: 300px !important;
+	width: 100% !important;
+
+}
+
+
+
+/*2*/
+
+#container-three content div img[src="IMG/Web-img.jpg"]{
+	height: 300px !important;
+	width: 100% !important;
+
+}
+
+
+/*3*/
+
+#container-three content img[src="IMG/Graphic-img.jpg"]{
+	height: 200px !important;
+	width: 100% !important;
+
+
+}
+
+
+/*4*/
+
+#container-three content div img[src="IMG/Ecomerce-img.jpg"]{
+	height: 300px !important;
+	width: 100% !important;
+
+}
+
+
+
+
+
+
+
+/*======================================================*/
+
+#container-three Content #bg-img-one #text-one{
+
+	height: 250px !important;
+	width: 100% !important;
+	font-size: 11px;
+
+
+
+
+}
+
+
+
+#container-three Content #bg-img-two #text-two{
+
+	height: 250px !important;
+	width: 100% !important;
+	float: left;
+	font-size: 11px;
+
+}
+
+
+
+#container-three Content #bg-img-three #text-three{
+
+	height: 200px !important;
+	width: 100% !important;
+	font-size: 11px;
+
+
+
+
+}
+
+
+#container-three Content #bg-img-four #text-four{
+
+	height: 250px !important;
+	width: 100% !important;
+	font-size: 12px;
+
+}
+
+
+
+
+img[src="IMG/icon1.png"]{
+	width: 40px !important;
+	height: 50px !important;
+}
+img[src="IMG/icon2.png"]{
+	width: 40px !important;
+	height: 50px !important;
+}
+
+
+
+#container-four #content #space h1{
+	font-size: 15px !important;
+}
+
+#container-four #content #space{
+
+	width: 200px !important;
+	margin-right: 0px !important;
+}
+
+#container-four #content #space p,a{
+
+
+	font-size: 10px;
+
+}
+
+
+#container-four #content video{
+	width: 200px !important;
+	height: 100px !important;
+	margin-left: 0px;
+}
+
+
+
+
+
+#logo img[src="IMG/main-logo.png"]{
+	display: none;
+}
+
+
+
+
+	}
